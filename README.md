@@ -1,2 +1,2 @@
 # Learn_DevSecOps
-Resources for learning DevSecOps tools.
+My workshop resources for learning DevSecOps tools.
